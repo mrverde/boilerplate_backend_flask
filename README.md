@@ -24,7 +24,7 @@ $ venv\Scripts\activate
 
 After that, install the needed packages with:
 ```{bash}
-pip install requirements.txt 
+pip install -r requirements.txt 
 ```
 
 ### Run server
